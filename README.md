@@ -1,1 +1,1 @@
-# OOP-in-Java
+This repository is dedicated to exploring and understanding Object-Oriented Programming (OOP) concepts in Java. It aims to provide a comprehensive resource for beginners and those looking to solidify their knowledge of OOP principles. It includes examples, explanations, and implementations of OOP features to help developers understand and apply these concepts effectively.
